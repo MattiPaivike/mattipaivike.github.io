@@ -17,5 +17,15 @@
 write-host &amp;#34;asd&amp;#34; </description>
       </item>
     
+      <item>
+        <title>Hello world 222</title>
+        <link>https://mattipaivike.github.io/rebelautomation.github.io/posts/mypost2/</link>
+        <pubDate>Thu, 26 Aug 2021 19:25:45 +0300</pubDate>
+        
+        <guid>https://mattipaivike.github.io/rebelautomation.github.io/posts/mypost2/</guid>
+        <description>This is some content asdfadggadadg
+write-host &amp;#34;asd&amp;#34; </description>
+      </item>
+    
   </channel>
 </rss>
