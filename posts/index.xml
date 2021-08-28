@@ -1,31 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>RebelAutomation</title>
-    <link>https://mattipaivike.github.io/rebelautomation.github.io/posts/</link>
-    <description></description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 26 Aug 2021 19:25:45 +0300</lastBuildDate><atom:link href="https://mattipaivike.github.io/rebelautomation.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-      <item>
-        <title>Hello world</title>
-        <link>https://mattipaivike.github.io/rebelautomation.github.io/posts/mypost/</link>
-        <pubDate>Thu, 26 Aug 2021 19:25:45 +0300</pubDate>
+    <channel>
+        <title>Posts on RebelAutomation</title>
+        <link>https://mattipaivike.github.io/posts/</link>
+        <description>Recent content in Posts on RebelAutomation</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 26 Aug 2021 19:25:45 +0300</lastBuildDate>
+        <atom:link href="https://mattipaivike.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
-        <guid>https://mattipaivike.github.io/rebelautomation.github.io/posts/mypost/</guid>
-        <description>This is some content
+        <item>
+            <title>Hello world</title>
+            <link>https://mattipaivike.github.io/posts/mypost/</link>
+            <pubDate>Thu, 26 Aug 2021 19:25:45 +0300</pubDate>
+            
+            <guid>https://mattipaivike.github.io/posts/mypost/</guid>
+            <description>This is some content
 write-host &amp;#34;asd&amp;#34; </description>
-      </item>
-    
-      <item>
-        <title>Hello world 222</title>
-        <link>https://mattipaivike.github.io/rebelautomation.github.io/posts/mypost2/</link>
-        <pubDate>Thu, 26 Aug 2021 19:25:45 +0300</pubDate>
+            <content type="html"><![CDATA[<p>This is some content</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-powershell" data-lang="powershell">write-host <span style="color:#e6db74">&#34;asd&#34;</span>
+</code></pre></div>]]></content>
+        </item>
         
-        <guid>https://mattipaivike.github.io/rebelautomation.github.io/posts/mypost2/</guid>
-        <description>This is some content asdfadggadadg
+        <item>
+            <title>Hello world 222</title>
+            <link>https://mattipaivike.github.io/posts/mypost2/</link>
+            <pubDate>Thu, 26 Aug 2021 19:25:45 +0300</pubDate>
+            
+            <guid>https://mattipaivike.github.io/posts/mypost2/</guid>
+            <description>This is some content asdfadggadadg
 write-host &amp;#34;asd&amp;#34; </description>
-      </item>
-    
-  </channel>
+            <content type="html"><![CDATA[<p>This is some content asdfadggadadg</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-powershell" data-lang="powershell">write-host <span style="color:#e6db74">&#34;asd&#34;</span>
+</code></pre></div>]]></content>
+        </item>
+        
+    </channel>
 </rss>

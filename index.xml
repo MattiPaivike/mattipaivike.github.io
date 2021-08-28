@@ -2,30 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RebelAutomation</title>
-    <link>https://mattipaivike.github.io/rebelautomation.github.io/</link>
-    <description></description>
+    <link>https://mattipaivike.github.io/</link>
+    <description>Recent content on RebelAutomation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Aug 2021 19:25:45 +0300</lastBuildDate><atom:link href="https://mattipaivike.github.io/rebelautomation.github.io/index.xml" rel="self" type="application/rss+xml" />
-      <item>
-        <title>Hello world</title>
-        <link>https://mattipaivike.github.io/rebelautomation.github.io/posts/mypost/</link>
-        <pubDate>Thu, 26 Aug 2021 19:25:45 +0300</pubDate>
-        
-        <guid>https://mattipaivike.github.io/rebelautomation.github.io/posts/mypost/</guid>
-        <description>This is some content
-write-host &amp;#34;asd&amp;#34; </description>
-      </item>
+    <lastBuildDate>Thu, 26 Aug 2021 19:25:45 +0300</lastBuildDate><atom:link href="https://mattipaivike.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://mattipaivike.github.io/about/</link>
+      <pubDate>Thu, 26 Aug 2021 19:25:45 +0300</pubDate>
+      
+      <guid>https://mattipaivike.github.io/about/</guid>
+      <description>This is me in my natural environment:
+My name is Matti Päivike and I have been working in the IT-industry for over a decade. I started this journey by working in helpdesk and IT-support. Slowly I was introduced Powershell and since writing my first lines of code have developed an obsession with automation.
+I created this blog as a way to document my work and hopefully give something back to the community.</description>
+    </item>
     
-      <item>
-        <title>Hello world 222</title>
-        <link>https://mattipaivike.github.io/rebelautomation.github.io/posts/mypost2/</link>
-        <pubDate>Thu, 26 Aug 2021 19:25:45 +0300</pubDate>
-        
-        <guid>https://mattipaivike.github.io/rebelautomation.github.io/posts/mypost2/</guid>
-        <description>This is some content asdfadggadadg
+    <item>
+      <title>Hello world</title>
+      <link>https://mattipaivike.github.io/posts/mypost/</link>
+      <pubDate>Thu, 26 Aug 2021 19:25:45 +0300</pubDate>
+      
+      <guid>https://mattipaivike.github.io/posts/mypost/</guid>
+      <description>This is some content
 write-host &amp;#34;asd&amp;#34; </description>
-      </item>
+    </item>
+    
+    <item>
+      <title>Hello world 222</title>
+      <link>https://mattipaivike.github.io/posts/mypost2/</link>
+      <pubDate>Thu, 26 Aug 2021 19:25:45 +0300</pubDate>
+      
+      <guid>https://mattipaivike.github.io/posts/mypost2/</guid>
+      <description>This is some content asdfadggadadg
+write-host &amp;#34;asd&amp;#34; </description>
+    </item>
     
   </channel>
 </rss>
